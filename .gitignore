@@ -161,3 +161,6 @@ cython_debug/
 
 #Annoying MacOS file
 .DS_Store
+
+# Virtual environment to exclude due to heavy dependencies and files
+.venv/
